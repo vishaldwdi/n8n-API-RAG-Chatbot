@@ -1,4 +1,4 @@
-# API-RAG-Chatbot
+# n8n-API-RAG-Chatbot
 This RAG chatbot lets you chat with the GitHub API docs using natural language. Built with n8n, OpenAI LLMs &amp; Pinecone, it gives accurate answers on using the GitHub API. Adaptable to any OpenAPI spec for public/private API documentation chatbots.
 
 This workflow demonstrates a Retrieval Augmented Generation (RAG) chatbot that lets you chat with the GitHub API Specification (documentation) using natural language. Built with n8n, OpenAI's LLMs and the Pinecone vector database, it provides accurate and context-aware responses to your questions about how to use the GitHub API.
